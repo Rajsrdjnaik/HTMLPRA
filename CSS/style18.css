@@ -1,3 +1,8 @@
 h1{
 	background: url(../img/Rajat.jpg);
+	background-repeat: no-repeat;
+	/*text-indent: -9999px;*/
+	width: 612px;
+	height: 612px;
+	font-family:cursive; ;
 }
